@@ -1,2 +1,2 @@
 # Ecommerce-Data-Analysis
-![Dashboard_SC.bmp]
+!(Dashboard_SC.bmp)
