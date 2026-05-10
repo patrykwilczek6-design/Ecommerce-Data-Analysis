@@ -19,12 +19,12 @@ The analysis answers:
 - Poland is our top revenue market among all countries
 
 ## Recommendations
-Stores are out channel to scale up the sales, marketing strategy should be focused mainly on this type of customer if we want to scale up fast.
+Stores are our channel to scale up the sales, marketing strategy should be focused mainly on this type of customer if we want to scale up fast.
 Marketing strategy should focus on retail partnerships/wholesale segment.
 
 ## Recommendation for Future Analysis
 - Product Analysis, which products drive highest revenue.
-- Customer identyfication, which stores bring us the most revenue.
+- Customer identification, which stores bring us the most revenue.
 
 ## Tech Stack
 - Python/JupyterNotebook
